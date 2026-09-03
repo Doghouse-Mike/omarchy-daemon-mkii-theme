@@ -3,6 +3,7 @@
 A Cyberpunk 2077-inspired dark theme for [Omarchy](https://omarchy.org/), adapted from the [Daemon 2.0 KDE Plasma theme](https://github.com/MathisP75/daemon-kde-mk2) by MathisP75.
 
 ![preview](preview.png)
+![preview2](preview2.png)
 
 ## Install
 
