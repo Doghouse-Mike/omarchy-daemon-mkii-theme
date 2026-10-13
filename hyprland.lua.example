@@ -1,3 +1,6 @@
+-- Reference only: Omarchy ignores *.lua in git-installed themes. To use these
+-- window tweaks, copy the hl.config block into your own Hyprland config.
+
 -- Daemon MKII — matches the KDE Aurorae window decorations
 -- (ported from the theme's original hyprland.conf, which this Omarchy
 -- version never loads: only hyprland.lua is read for theme overrides)

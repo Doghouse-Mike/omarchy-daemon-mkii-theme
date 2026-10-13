@@ -32,7 +32,7 @@ This theme is adapted from the **Daemon 2.0** global theme for KDE Plasma 6, cre
 - Original repository: [MathisP75/daemon-kde-mk2](https://github.com/MathisP75/daemon-kde-mk2)
 - License: [GPL-3.0](LICENSE)
 
-The color palette, wallpapers, and overall aesthetic are derived from the Daemon KDE theme. The Omarchy-specific configuration files (`colors.toml`, `hyprland.lua`) were written to translate the original KDE color scheme into Omarchy's theming system.
+The color palette, wallpapers, and overall aesthetic are derived from the Daemon KDE theme. The Omarchy-specific configuration files (`colors.toml`, `hyprland.lua.example`) were written to translate the original KDE color scheme into Omarchy's theming system. `hyprland.lua.example` documents the original window chrome (gradient border, gaps, rounding, shadow); Omarchy does not load it, so copy it into your own Hyprland config if you want that look.
 
 ## License
 
