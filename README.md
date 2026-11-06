@@ -11,6 +11,10 @@ A Cyberpunk 2077-inspired dark theme for [Omarchy](https://omarchy.org/), adapte
 omarchy theme install https://github.com/doghouse-mike/omarchy-daemon-mkii-theme
 ```
 
+## Window tweaks (optional)
+
+Want the original Daemon window look as well (gradient border, gaps, rounding, shadow)? Those Hyprland settings live in a separate repo: [daemon-mkii-hyprland-tweaks](https://github.com/Doghouse-Mike/daemon-mkii-hyprland-tweaks).
+
 ## Color Palette
 
 | Name             | Hex       |
